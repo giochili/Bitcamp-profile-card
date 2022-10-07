@@ -9,7 +9,7 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-image: url("/images/bg-pattern-top.svg"), url("images/bg-pattern-bottom.svg");
+  background-image: url("/bg-pattern-top.svg"), url("/bg-pattern-bottom.svg");
   background-repeat: no-repeat;
   background-position: bottom 41vh right 52vw, top 60vh left 47vw;
   background-color: #19A1AE;;
